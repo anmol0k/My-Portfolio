@@ -9,7 +9,7 @@ const Skills = () => {
             <h2 className="text-3xl text-gray-300 font-bold text-center mb-2">
                 My <span className="text-outline">Skills</span>
             </h2>
-            <p className="text-slate-300 text-center mx-auto mb-12 text-sm">The tools and technologies I use to bring ideas to life.</p>
+            <p className="text-slate-300 text-center mx-auto mb-12 text-sm">A strong technical Skills that helps me build fast, responsive, and modern web experiences.</p>
 
             <div className="grid md:grid-cols-2 gap-10">
                 {

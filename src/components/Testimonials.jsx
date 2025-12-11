@@ -9,7 +9,7 @@ const Testimonials = () => {
                 <h2 className="text-3xl font-bold text-center mb-2 text-gray-300">My <span className='text-outline'>Testimonials</span></h2>
 
                 <p className="text-gray-500 text-center mb-12">
-                    The tools and technologies I use to bring ideas to life.
+                    What clients and collaborators say about my work, professionalism, and commitment to quality.
                 </p>
 
                 <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6'>

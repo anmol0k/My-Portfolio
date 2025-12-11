@@ -8,7 +8,7 @@ export const Experience = () => {
                 <h2 className="text-3xl font-bold text-center mb-2 text-gray-300">My <span className='text-outline'>Experience</span></h2>
 
                 <p className="text-gray-500 text-center mb-12">
-                    The tools and technologies I use to bring ideas to life.
+                    Hands-on experience creating real-world projects and solving problems through clean, efficient code.
                 </p>
 
                 <div className='relative w-full mx-w-5xl mx-auto px-4 py-12'>

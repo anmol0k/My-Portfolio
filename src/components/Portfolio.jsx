@@ -45,7 +45,7 @@ export const Portfolio = () => {
                 </h2>
 
                 <p className="text-gray-500 text-center mb-12">
-                    The tools and technologies I use to bring ideas to life.
+                    A collection of my best work that reflects my creativity, technical ability, and attention to detail.
                 </p>
 
 

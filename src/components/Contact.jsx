@@ -53,7 +53,7 @@ export const Contact = () => {
                 </h2>
 
                 <p className="text-gray-500 text-center mb-12">
-                    The tools and technologies I use to bring ideas to life.
+                    Let’s connect — I’m open to new opportunities, collaborations, and exciting challenges.
                 </p>
 
                 <div className='bg-white/5 backdrop-blur-lg rounded-2xl p-8 md:p-12 grid grid-cols-1 lg:grid-cols-2 gap-12 border border-white/20'>
