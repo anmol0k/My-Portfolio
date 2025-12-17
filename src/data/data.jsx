@@ -30,6 +30,7 @@ import {
   SiMongodb,
   SiMysql,
   SiNetlify,
+  SiWordpress,
   SiPostgresql,
   SiPostman,
   SiRedux,
@@ -97,6 +98,7 @@ export const skillsData = [
       { name: "Figma", icon: <SiFigma className="text-pink-500" /> },
       { name: "Canva", icon: <SiCanva className="text-orange-400" /> },
       { name: "Vercel", icon: <SiVercel className="text-green-400" /> },
+      { name: "WordPress", icon: <SiWordpress className="text-blue-400" /> },
     ],
   },
 ];
