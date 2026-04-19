@@ -61,7 +61,7 @@ export const skillsData = [
       { name: "CSS", icon: <FaCss3Alt className="text-blue-500" /> },
       { name: "JavaScript", icon: <FaJs className="text-yellow-400" /> },
       { name: "React JS", icon: <FaReact className="text-cyan-400" /> },
-      { name: "Next JS", icon: <RiNextjsFill className="text-white" /> },
+      // { name: "Next JS", icon: <RiNextjsFill className="text-white" /> },
       {
         name: "Tailwind CSS",
         icon: <RiTailwindCssFill className="text-teal-400" />,
@@ -73,7 +73,7 @@ export const skillsData = [
     title: "Backend",
     skills: [
       { name: "Node JS", icon: <FaNodeJs className="text-green-400" /> },
-      { name: "Express JS", icon: <SiExpress className="text-gray-300" /> },
+      // { name: "Express JS", icon: <SiExpress className="text-gray-300" /> },
       { name: "MySQL", icon: <SiMysql className="text-blue-400" /> },
       { name: "MongoDB", icon: <SiMongodb className="text-green-500" /> },
     ],
@@ -82,7 +82,7 @@ export const skillsData = [
     title: "Languages",
     skills: [
       { name: "php", icon: <SiPhp className="text-blue-400" /> },
-      { name: "Python", icon: <DiPython className="text-yellow-400" /> },
+      // { name: "Python", icon: <DiPython className="text-yellow-400" /> },
       {
         name: "JavaScript",
         icon: <SiJavascript className="text-yellow-400" />,
@@ -95,7 +95,7 @@ export const skillsData = [
       { name: "GitHub", icon: <SiGithub className="text-white" /> },
       { name: "VS Code", icon: <DiVisualstudio className="text-blue-500" /> },
       { name: "Netlify", icon: <SiNetlify className="text-teal-400" /> },
-      { name: "Figma", icon: <SiFigma className="text-pink-500" /> },
+      // { name: "Figma", icon: <SiFigma className="text-pink-500" /> },
       { name: "Canva", icon: <SiCanva className="text-orange-400" /> },
       { name: "Vercel", icon: <SiVercel className="text-green-400" /> },
       { name: "WordPress", icon: <SiWordpress className="text-blue-400" /> },
