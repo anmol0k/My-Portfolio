@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react'
 const AnimatedTitles = () => {
     const roles = [
         { title: "Web Developer" },
-        { title: "Front Developer" },
+        { title: "Frontend Developer" },
         { title: "Software Developer" },
     ];
 
