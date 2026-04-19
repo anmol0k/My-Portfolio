@@ -150,6 +150,7 @@ export const portfolioItems = [
       "/k1.png",
       "/k2.png",
     ],
+    link: "https://khabaitech.com/payroll/index.php",
   },
   {
     title: "Ngo Website",
